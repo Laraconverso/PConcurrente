@@ -1,6 +1,6 @@
 # P concurrente [TB026]
 
-Repo con material de la materia programación concurrente.
+Repo con material de la materia programación concurrente - Catedra Deymonnaz
 
 Recomiendo los tutoriales de rust que vienen con itelliJ. 
 
