@@ -1,0 +1,34 @@
+Top 5 autores por cantidad total de reviews:
+J.K. Rowling — 17589173 reviews totales
+   Harry Potter and the Sorcerer's Stone (Harry Potter, #1) — 4765497 reviews
+   Harry Potter and the Prisoner of Azkaban (Harry Potter, #3) — 1876252 reviews
+   Harry Potter and the Chamber of Secrets (Harry Potter, #2) — 1821802 reviews
+Stephen King — 9654799 reviews totales
+   The Shining — 804918 reviews
+   The Stand — 449730 reviews
+   Carrie — 365610 reviews
+Suzanne Collins — 9348864 reviews totales
+   The Hunger Games (The Hunger Games, #1) — 4899965 reviews
+   Catching Fire (The Hunger Games, #2) — 1854746 reviews
+   Mockingjay (The Hunger Games, #3) — 1743362 reviews
+Stephenie Meyer — 8933360 reviews totales
+   Twilight (Twilight, #1) — 3941381 reviews
+   New Moon (Twilight, #2) — 1161751 reviews
+   Eclipse (Twilight, #3) — 1146155 reviews
+Rick Riordan — 6148509 reviews totales
+   The Lightning Thief (Percy Jackson and the Olympians, #1) — 1411728 reviews
+   The Sea of Monsters (Percy Jackson and the Olympians, #2) — 527320 reviews
+   The Battle of the Labyrinth (Percy Jackson and the Olympians, #4) — 519213 reviews
+
+Top 5 editoriales con más libros publicados:
+Createspace Independent Publishing Platform — 18604 libros
+Smashwords Edition — 11513 libros
+Harlequin — 10300 libros
+Createspace — 9688 libros
+HarperCollins — 8173 libros
+
+Hilo(s): 3
+Tiempo de carga de datos: 65.87950025s
+Tiempo de ejecución primera transformacion : 3.998072042s
+Tiempo de ejecución segunda transformacion: 1.24759675s
+Tiempo de ejecución TOTAL: 71.12516925s
