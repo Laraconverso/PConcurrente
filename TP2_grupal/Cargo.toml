@@ -1,0 +1,10 @@
+[workspace]
+resolver = "3"
+members = [
+    "central_server",
+    "company_admin",
+    "gas_station",
+    "pump",
+    "regional_server",
+    "shared_resources"
+]

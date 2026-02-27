@@ -1,0 +1,8 @@
+[package]
+name = "company_admin"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+shared_resources = { path = "../shared_resources" }
+chrono = "0.4.42"
